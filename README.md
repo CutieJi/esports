@@ -1,6 +1,6 @@
-# Arcadia Esports
+# Rogue Vandals Editor
 
-Welcome to **Arcadia Esports**, a platform dedicated to creating a dynamic online presence for gaming enthusiasts. This project focuses on building a sleek, minimalistic website for an esports community.
+Welcome to **Rogue Vandals Editor**, a platform dedicated to creating a dynamic online presence for gaming enthusiasts. This project focuses on building a sleek, minimalistic website for an esports community.
 
 ## Features
 - **Landing Page**: Highlighting popular games like BGMI, Valorant, and COD.
@@ -17,15 +17,15 @@ Welcome to **Arcadia Esports**, a platform dedicated to creating a dynamic onlin
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/awmie/ArcadiaEsports.git
+    git clone https://github.com/CutieJi/esports.git
     ```
 2. Open `index.html` in your browser to view the site.
 
 ## Preview
 
-Check out the live version here: [Arcadia Esports](https://arcadia-esports.vercel.app).
+Check out the live version here: [Rogue Vandals](https://roguevandals.netlify.app).
 
 ## License
 
-All rights are reserved under [Esports Arcadia](https://github.com/awmie/ArcadiaEsports/blob/main/LICENSE)
+All rights are reserved under [RV eSports](https://github.com/CutieJi/esports/blob/main/LICENSE)
 
