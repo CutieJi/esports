@@ -22,10 +22,7 @@
     <script>
   window.addEventListener('DOMContentLoaded', function () {
     const audio = document.getElementById('bg-music');
-
-    // Try to play immediately (may fail silently if blocked)
     audio.play().catch(() => {
-      // Wait for user interaction if blocked
       const startAudio = () => {
         audio.play();
         document.removeEventListener('click', startAudio);
@@ -39,7 +36,7 @@
   </head>
   <body class="bg-black" style="font-family: IBM plex mono">
     <audio id="bg-music" autoplay loop hidden>
-  <source src="rvmusic.mp3" type="audio/mpeg" />
+      <source src="rvmusic.mp3" type="audio/mpeg" />
     </audio>
     <div id="particles-js" class="-z-0"></div>
     <header
