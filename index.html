@@ -31,10 +31,10 @@
       const startAudio = () => {
         audio.play();
         document.removeEventListener('click', startAudio);
-        document.removeEventListener('scroll', startAudio);
+        
       };
       document.addEventListener('click', startAudio);
-      document.addEventListener('scroll', startAudio);
+      
     });
   });
     </script>
