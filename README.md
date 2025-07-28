@@ -1,9 +1,9 @@
-# Rogue Vandals Editor
+# Rogue Vandals
 
-Welcome to **Rogue Vandals Editor**, a platform dedicated to creating a dynamic online presence for gaming enthusiasts. This project focuses on building a sleek, minimalistic website for an esports community.
+Welcome to **RogueVandals WebHub**, a platform dedicated to creating a sportsmanship for gaming enthusiasts. This project focuses on building a friendship, minimalistic website for an esports community.
 
 ## Features
-- **Landing Page**: Highlighting popular games like BGMI, Valorant, and COD.
+- **Landing Page**: Highlighting profile info and application recruitment.
 - **Interactive UI**: Includes particle effects for added flair.
 - **Responsive Design**: Optimized for mobile and desktop devices.
 
